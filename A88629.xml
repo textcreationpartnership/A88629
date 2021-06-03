@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Loyal queries, humbly tendred to the serious consideration of the Parliament, and Army, by a peaceable-minded man, and a true lover of his country.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88629</idno><idno type="EEBO-CITATION">99862946</idno>
+  <idno type="VID">115126</idno>
+  <idno type="EEBO-PROQUEST">2240952725</idno>
+  
+            <idno type="STC">Wing L3361</idno>
+            <idno type="STC">Thomason E986_15</idno>
+            <idno type="STC">ESTC R202764</idno>
+            <idno type="PROQUEST">99862946</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862946e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88629)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115126)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E986[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Loyal queries, humbly tendred to the serious consideration of the Parliament, and Army, by a peaceable-minded man, and a true lover of his country.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June. 14.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115126:1"/>
+            <p>LOYAL QUERIES, HUMBLY Tendred to the serious Consideration OF THE PARLIAMENT, AND ARMY;</p>
+            <p>By a Peaceable-minded man, and a true Lover of his Country.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the year 1659. <add>June 14</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115126:2"/>
+            <pb n="3" facs="tcp:115126:2"/>
+            <head>LOYAL QVERIES HUMBLY Tendred to the serious Consider<g ref="char:EOLhyphen"/>ation, of the Parliament, and Army.</head>
+            <list>
+               <item>1. <seg rend="decorInit">W</seg>Hether a sober review, and exact conside<g ref="char:EOLhyphen"/>ration of the happy Estate we lived in 1639, may not probably reclaim, and recover us to the like Estate, before the expiration of 1659?</item>
+               <item>II. Whether it be not a high degree of madnesse, for a rich, and flourishing people, to be alwayes essaying new modes, and forms of Government, when experi<g ref="char:EOLhyphen"/>ence of so many Ages hath taught them, that the old form of Government, is most safe, most honourable, most peaceable, and most Heaven-like?</item>
+               <pb n="4" facs="tcp:115126:3"/>
+               <item> III. Whether the vagabond humor▪ of the more Nor<g ref="char:EOLhyphen"/>thern Nations, in perpetual motion, for the advan<g ref="char:EOLhyphen"/>tages of an Exchange of Laws, Manners, and Coun<g ref="char:EOLhyphen"/>tries, be suitable to the virtue, wisdome, and composed<g ref="char:EOLhyphen"/>ness of the English, who find themselves unmendable, by any change whatsoever?</item>
+               <item>IV. Whether one single Act of Pardon, or Indempni<g ref="char:EOLhyphen"/>ty (without the trouble, or hazard of Multiplicati<g ref="char:EOLhyphen"/>on) by the undoubted Superiour, and the two houses of Parliament, be not the only way to the peace, and settlement of the three Nations?</item>
+               <item>V. Whether it be not a greater Act of Prudence, Rea<g ref="char:EOLhyphen"/>son, and Christianity, to restore the banished Prin<g ref="char:EOLhyphen"/>ces (Sons of the late King) who have so many years sed upon the bread of Carefulness, and gathered (as it were) the Crums from the Table of our Enemies, to their Antient Lawful Birth-rights?</item>
+               <item>VI. VVhether a seasonable Treaty of Accommodation, between the Son and Heir of the late King, and the present Parliament, be not the most probable expe<g ref="char:EOLhyphen"/>dient,
+<pb n="5" facs="tcp:115126:3"/>to secure satisfaction to all Protestant Inte<g ref="char:EOLhyphen"/>rests, both Civil, and Religious, and to prevent the Execution of those Matchiavillian Plots, Jesuitical Counsels, and Conspira<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies, which are under daily debate against us, as we are Englishmen, and against us, as we are the most blessed people under the Sun, (when united under one rightful supream Magi<g ref="char:EOLhyphen"/>strate) in the true worship of the Almighty, and in all the real Comforts, and Enjoyments of this life?</item>
+               <item>VII. VVhether it be most proper, for Parliament, or Army, to make the first overture for a Treaty of Ac<g ref="char:EOLhyphen"/>comodation?</item>
+               <item>VIII. VVhether a select number of Persons, joyntly Commissionated by Parliament, and Army, be not the fittest persons, of the three Nations, for the Ma<g ref="char:EOLhyphen"/>nagement of that Treaty?</item>
+               <item>IX. VVhether that Treaty be not likely to prove of greater advantage to the Protestant Cause, and to strike a greater terrour into the hearts of all Popish Princes in <hi>Europe,</hi> than ever any yet did since the Re<g ref="char:EOLhyphen"/>formation?</item>
+               <item>X. VVhether any sober minded man can propose a
+<pb n="6" facs="tcp:115126:4"/>more legal, and more Gospel like power, to secure the constant, and free Exercise of the Protestant Reli<g ref="char:EOLhyphen"/>gion, to all professours of it, in a just liberty, and modest variety of opinions, than the united Authori<g ref="char:EOLhyphen"/>ty of a Protestant Prince, and the two Houses of Par<g ref="char:EOLhyphen"/>liament, Elected, and Assembed according to Law?</item>
+               <item>XI. VVhether any Person in the three Nations, hath been more tryed, or more tempted, to forsake the Protestant Religion, than the eldest Son and Heir of the late King?</item>
+               <item>XII. VVhether there be any better, or more confirmed Protestant in the world, than himself?</item>
+               <item>XIII. VVhether this truely English spirited Prince, hath not preferred penury and want of all things, (but of a good Conscience) before the Arms, Navies, and Armies, which have been tender'd him, by the Pope, and his Partizans, in his Assistance, for the Recove<g ref="char:EOLhyphen"/>ry of his right of Government, (with this Proviso) to renounce the Protestant Religion, and to conform to the Church of <hi>Rome?</hi>
+               </item>
+               <item>XIV. VVhether he loves not an Englishman, above all Nations, Languages, and dearest of Relatives?</item>
+               <pb n="7" facs="tcp:115126:4"/>
+               <item> XV. Whether the late Vsurper, had ever greater Con<g ref="char:EOLhyphen"/>fusion of Face, than at the reading of the Proclamati<g ref="char:EOLhyphen"/>on dated 1657, of a General pardon to all persons whatsoever, excepting himself, and one single person more?</item>
+               <item>XVI. VVhether the present Navies, and Armies, will be ever paid their Arrears, with greater satisfaction, and love of the people, than when those Arrears shall be stated, satisfied, and paid, by an Act of Parliament?</item>
+               <item>XVII. Whether the Superior and two Houses of Parlia<g ref="char:EOLhyphen"/>ment, can Enact, and Ordain, any act more gratefull and beneficial to the people, than the satisfying and discharging those Arears?</item>
+               <item>XVIII. Whether if the Eldest Son and Heir of the late King, had been put into possession by the Parliament, and Army, in 1653, when the late Vsurper did exer<g ref="char:EOLhyphen"/>cise his lust, in the dissolution of the Parliament, it had not prevented the vast Debt of three Millions and four hundred thousand pounds, which now lies upon the Nation, besides the Expence of those many
+<pb n="8" facs="tcp:115126:5"/>Millions exhausted under that Vsurpation.</item>
+               <item>XIX. Whether the Son and Heir of the late King, be not better Qualified, and Capacitated, for the supreme Magistracy of the three Nations, than the Son of the late Vsurper?</item>
+               <item>XX. Whether those Prudential Senators of the late Assembly dissolv'd, (and now sitting in this present Parliament) may not with greater assurance, of a blessed peace, and settlement, admit the Son and Heir of the late King to the Government, upon the articles agreed on at the <hi>Isle of Weight,</hi> than they could have admitted his late Highnesse, to whom for the publick good, (like true publick spirits) they were Inclinable to subscribe, upon those very Articles, and Conditions, had hee been then pleased, to have accepted of the Goverment, so limitted, and re<g ref="char:EOLhyphen"/>strained?</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
